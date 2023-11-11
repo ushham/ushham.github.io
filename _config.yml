@@ -85,37 +85,10 @@ author:
   bio              : "PhD student studying climate science, with a focus on climate tipping points"
   location         : "RMIB, Brussels, Belgium"
   employer         : "Université Catholique de Louvain"
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "ushham"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-0447-1657"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-  mastodon        : "https://mastodon.green/@ushham"
+  # mastodon         : "https://mastodon.green/@ushham"
 
 # Reading Files
 include:
