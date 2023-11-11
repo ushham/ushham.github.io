@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "RMIB, Brussels, Belgium"
-  employer         : "Université catholique de Louvain"
+  employer         : "Université Catholique de Louvain"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  masterdon        : "https://mastodon.green/@ushham"
+  mastodon        : "https://mastodon.green/@ushham"
 
 # Reading Files
 include:
