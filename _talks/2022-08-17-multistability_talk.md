@@ -1,8 +1,9 @@
 ---
 title: "Multistabily in a coupled ocean-atmosphere model"
 collection: talks
+cat: talk
 type: "Presentation"
-permalink: /talks/2022-08-17-multistability_talk
+permalink: /outreach/2022-08-17-multistability_talk
 venue: "9th International Symposium on Bifurcations and Instabilities in Fluid Dynamics (BIFD22)"
 date: 2022-08-17
 location: "Groningen, The Netherlands"

@@ -1,8 +1,9 @@
 ---
 title: "Multistability in a low order QG model"
 collection: talks
+cat: poster
 type: "Poster"
-permalink: /talks/2022-06-29-multistability_poster
+permalink: /outreach/2022-06-29-multistability_poster
 venue: "Modern Mathematics for Complex Systems"
 date: 2022-06-29
 location: "London, UK"

@@ -1,16 +1,37 @@
 ---
 layout: archive
-title: "Talks and posters"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
 
-<!-- {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %} -->
-
+<header>
+  <h1>Talks</h1>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == "Presentation" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
+</header>
+
+<hr style="height:20px">  
+
+<header>
+  <h1>Posters</h1>
+{% for post in site.talks reversed %}
+  {% if post.type == "Poster" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+</header>
+
+<hr style="height:20px">  
+
+<header>
+  <h1>Others</h1>
+{% for post in site.talks reversed %}
+  {% if post.type != "Poster" and post.type != "Presentation" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+</header>

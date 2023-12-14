@@ -1,8 +1,9 @@
 ---
 title: "Multistability in a Coupled Ocean-AtmosphereReduced Order Model: Non-linear Temperature Equations"
 collection: talks
+cat: talk
 type: "Presentation"
-permalink: /talks/2023-04-26-multistability_talk
+permalink: /outreach/2023-04-26-multistability_talk
 venue: "EGU General Assembly"
 date: 2023-04-26
 location: "Vienna, Austria"

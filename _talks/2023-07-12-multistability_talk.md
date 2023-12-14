@@ -1,8 +1,9 @@
 ---
 title: "Multistability in a coupled ocean-atmosphere reduced order model: Non-linear temperature equations"
 collection: talks
+cat: talk
 type: "Presentation"
-permalink: /talks/2023-07-12-multistability_talk
+permalink: /outreach/2023-07-12-multistability_talk
 venue: "28th IUGG General Assembly"
 date: 2023-07-12
 location: "Berlin, Germany"
