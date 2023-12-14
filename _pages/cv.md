@@ -56,4 +56,4 @@ Outreach
 
 ---
 
-Download C.V
+Download [C.V.](../_files/Oisin_Hamilton2023.pdf)
