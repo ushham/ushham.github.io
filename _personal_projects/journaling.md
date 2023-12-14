@@ -14,10 +14,10 @@ I use a python tool to store my daily journals. This tool can autogenerate maps 
 Some outputs are shown below.
 
 Dates for which I have diary entries:
-<img src="../images/personal_projects/journaling/Year_by_Year_Comparison.png" alt="dates" width="2000"/>
+<img src="../images/personal_projects/journaling/Year_by_Year_Comparison.png" alt="dates" width="700"/>
 
 Locations of each diary entry:
-<img src="../images/personal_projects/journaling/My_Locations.png" alt="locations" width="2000"/>
+<img src="../images/personal_projects/journaling/My_Locations.png" alt="locations" width="700"/>
 
 ---
 
