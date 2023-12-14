@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Personal Projects"
+permalink: /personal_projects/
+author_profile: true
+header: true
+---
+
+<!-- header pics are 72 wide 21 high -->
+
+{% include base_path %}
+
+{% for post in site.personal_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+

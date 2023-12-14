@@ -10,4 +10,4 @@ location: "London, UK"
 excerpt: ""
 ---
 
-![poster](../images/content/multistability_poster.jpg)
+![poster](../images/outreach/multistability_poster.jpg)
