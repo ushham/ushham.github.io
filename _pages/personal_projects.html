@@ -10,7 +10,7 @@ header: true
 
 {% include base_path %}
 
-{% for post in site.personal_projects %}
+{% for post in site.personal_projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
 

@@ -1,13 +1,12 @@
 ---
 title: "Shut the box"
+subtitle: "Shut the box - winning strategies"
 excerpt: "<img src='../images/personal_projects/stb/stb_profile.jpeg' width='800' height='600'>"
 permalink: /_personal_projects/stb
 collection: personal_projects
 header: false
+date: 2021-05-13
 ---
-
-# Shut the box - winning strategies
-*13th May, 2021*
 
 Coding project to numerically analyse the best strategies to win the game [shut the box](https://en.wikipedia.org/wiki/Shut_the_box).
 The code used to run these simultions was written in Julia, Python, and Fortran 2008 and can be found [here](https://github.com/ushham/Shut-The-Box/tree/master).
