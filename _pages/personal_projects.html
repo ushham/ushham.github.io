@@ -11,6 +11,7 @@ header: true
 {% include base_path %}
 
 {% for post in site.personal_projects reversed %}
-  {% include archive-single.html %}
+  {% if post.include %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
-

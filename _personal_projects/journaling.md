@@ -6,6 +6,7 @@ permalink: /personal_projects/journaling
 collection: personal_projects
 header: false
 date: 2023-12-14
+include: true
 ---
 
 I use a python tool to store my daily journals. This tool can autogenerate maps of the locations I spend each day, and create a combined journal entry for a given day on each year. The idea for this came from the 'Line a day - 5 year diary'.

@@ -6,6 +6,7 @@ permalink: /_personal_projects/stb
 collection: personal_projects
 header: false
 date: 2021-05-13
+include: true
 ---
 
 Coding project to numerically analyse the best strategies to win the game [shut the box](https://en.wikipedia.org/wiki/Shut_the_box).
