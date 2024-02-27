@@ -17,3 +17,5 @@ In our present work we compare the dynamics of an ocean-atmosphere coupled model
 Presentation length: 15 minutes.
 
 [Abstract Link](https://meetingorganizer.copernicus.org/EGU23/EGU23-5496.html)
+
+Low resolution copy of presentation can be downloaded [here](../files/Hamilton_EGU_2023.pdf).

@@ -17,3 +17,5 @@ In our present work we compare the dynamics of an ocean-atmosphere coupled model
 Presentation length: 15 minutes.
 
 [Abstract Link](https://c-in.floq.live/event/iugg2023berlin/search?objectClass=timeslot&objectId=649483f664c73802ac745d70&type=detail)
+
+Low resolution copy of presentation can be downloaded [here](../files/Hamilton_BIFD_2022.pdf).
