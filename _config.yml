@@ -156,6 +156,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  sub_pages:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -201,6 +204,15 @@ defaults:
       type: personal_projects
     values:
       layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _sub_pages
+  - scope:
+      path: ""
+      type: sub_pages
+    values:
+      layout: single_sub
       author_profile: true
       share: true
       comment: true
