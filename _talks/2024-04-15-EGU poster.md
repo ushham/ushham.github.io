@@ -10,7 +10,9 @@ location: "Vienna, Austria"
 excerpt: ""
 ---
 
-![poster](../images/outreach/multistability_poster.jpg)
+# Draft poster
+
+![poster](../images/outreach/EGU_draft-1.jpg)
 
 Links:
 Model github https://github.com/Climdyn/qgs
