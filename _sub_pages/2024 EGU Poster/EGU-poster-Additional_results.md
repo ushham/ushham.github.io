@@ -17,7 +17,7 @@ On the left we show the position of the trajectory in projected phase spece, on 
 
 On the right we show the 500hPa geopotential height anomaly over time.
 
-<video src='../../images/outreach/2024_egu/MALAOM_regular_params.mp4' width=800></video>
+<video src='../../images/outreach/2024_egu/MALAOM_regular_params.mp4' width=800 controls></video>
 
 ## <a id="hadley">Hadley Cell</a>
 
@@ -29,13 +29,15 @@ Below we show a sweep through the bifurcation diagram varying $C_g$ on the $x$ a
 
 Below is a plot of the solutions for each branch in the bifurcation diagram, and a plot of the attractor in grey. These solutions are projected onto $(x, y)=(\psi_{a, 3}, \psi_{a, 2})$.
 
-<video src='../../images/outreach/2024_egu/Continuation_test_cg.mp4' width=800></video>
+<video src='../../images/outreach/2024_egu/Continuation_test_cg.mp4' width=800 controls></video>
 
 ## <a id="windward">Windward Blocking</a>
+At values of $C_g=300$Wm$^{-1}$ and $k_d=0.01405$ we find a stable heteroclinic orbit. Below we show the model behaviour for this stable orbit.
+<video src='../../images/outreach/2024_egu/windward_blocking_behaviour.mp4' width=800 controls></video>
 
+As $k_d$ decreases a crisis occurs and the trajectory again becomes chaotic.
 
-GIF OF CLIMATEOLIGY AT PO
-
+This orbit was tracked in AUTO and 
 We can extend the BD in kd and CG to find the region of stability
 PICURES OF BIFURCATION DIAGRAMS
 
@@ -45,7 +47,7 @@ PICTURE OF DYNAMICS FOR A FEW VALUES WITH TRAJECTORY AND UPOS ON TOP WITH STABLE
 ## <a id="leeward">Leeward Blocking</a>
 At $k_d=0.08$ and $C_g=370$Wm$^{-1}$ there is a region where there is a stable periodic orbit. Below is a look at the climatology of the model at these parameters. Note that the periodic orbit has to orbit twice in the projected space to complete a single orbit in the full state space.
 
-<video src='../../images/outreach/2024_egu/leeward_blocking_behaviour.mp4' width=800></video>
+<video src='../../images/outreach/2024_egu/leeward_blocking_behaviour.mp4' width=800 controls></video>
 
 
 This PO is stable for a narrow band of $k_d$, and we show the evolution of the solutions as we sweep over $k_d$ in the bifurcation diagram below.
