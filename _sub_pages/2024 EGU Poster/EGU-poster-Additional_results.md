@@ -36,6 +36,8 @@ At values of $C_g=300$Wm$^{-1}$ and $k_d=0.01405$ we find a stable heteroclinic 
 As $k_d$ decreases a crisis occurs and the trajectory again becomes chaotic. This crisis is shown in the below plot, where the stable PO at fixed $k_d=0.0104$ is shown on top of the trajectory for varying $k_d$.
 Once we leave the region of stability, through a series of period doublings or torus bifurcations, depending on the direction we take in $k_d$ or $C_g$, the behaviour again becomes chaotic. However, we see that there is a persistance of the periodic orbit on the dynamics.
 
+<video src='../../images/outreach/2024_egu/qgs_crisis.mp4' width=800 controls></video>
+
 
 ## <a id="leeward">Leeward Blocking</a>
 At $k_d=0.08$ and $C_g=370$Wm$^{-1}$ there is a region where there is a stable periodic orbit. Below is a look at the climatology of the model at these parameters. Note that the periodic orbit has to orbit twice in the projected space to complete a single orbit in the full state space.
@@ -44,6 +46,9 @@ At $k_d=0.08$ and $C_g=370$Wm$^{-1}$ there is a region where there is a stable p
 
 
 This PO is stable for a narrow band of $k_d$, and we show the evolution of the solutions as we sweep over $k_d$ in the bifurcation diagram below.
+
+<video src='../../images/outreach/2024_egu/kd continuation.mp4' width=800 controls></video>
+
 
 ---
 [Back to poster](/outreach/2024-04-15-EGU)
