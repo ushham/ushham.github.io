@@ -30,7 +30,7 @@ Below we show a sweep through the bifurcation diagram varying $C_g$ on the $x$ a
 <video src='../../images/outreach/2024_egu/Continuation_test_cg.mp4' width=800 controls></video>
 
 ## <a id="windward">Windward Blocking</a>
-At values of $C_g=300$Wm$^{-1}$ and $k_d=0.01405$ we find a stable heteroclinic orbit. Below we show the model behaviour for this stable orbit.
+At values of $C_g=300$Wm$^{-1}$ and $k_d=0.01405$ we find an orbit that appears to be a stable heteroclinic orbit. Below we show the model behaviour for this stable orbit.
 <video src='../../images/outreach/2024_egu/windward_blocking_behaviour.mp4' width=800 controls></video>
 
 As $k_d$ decreases a crisis occurs and the trajectory again becomes chaotic. This crisis is shown in the below plot, where the stable PO at fixed $k_d=0.0104$ is shown on top of the trajectory for varying $k_d$.
