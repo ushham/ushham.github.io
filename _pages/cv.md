@@ -11,6 +11,10 @@ header: false
 
 <!-- {% include base_path %} -->
 
+Download [C.V.](../files/Oisin_Hamilton2024.pdf)
+
+---
+
 Education
 ======
 * Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - Ongoing
@@ -88,7 +92,4 @@ Outreach
   {% endfor %}</ul>
   
 
-
 ---
-
-Download [C.V.](../files/Oisin_Hamilton2024.pdf)
