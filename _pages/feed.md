@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Feed"
-permalink: /feed/
+permalink: /feed
 author_profile: true
 redirect_from:
-  - /feed
+  - /feed/
+  - /news
+  - /news/
 
 header: True
 ---
