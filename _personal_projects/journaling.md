@@ -1,10 +1,11 @@
 ---
 title: "Journaling"
 subtitle: "Journaling tool"
-excerpt: "<img src='../images/personal_projects/journaling/journaling_profile.jpeg' width='800' height='600'>"
+image: "<img src='../images/personal_projects/journaling/journaling_profile.jpeg' width='800' height='600'>"
 permalink: /personal_projects/journaling
 collection: personal_projects
 header: false
+excerpt: Python tool that I use to manage my daily journal.
 date: 2023-12-14
 include: true
 ---

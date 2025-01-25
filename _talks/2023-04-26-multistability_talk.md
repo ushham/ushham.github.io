@@ -7,7 +7,7 @@ permalink: /outreach/2023-04-26-multistability_talk
 venue: "EGU General Assembly"
 date: 2023-04-26
 location: "Vienna, Austria"
-excerpt: ""
+excerpt: "Presentation at EGU: Multistability found in a coupled ocean-atmosphere model from introducing non-linear radiation terms."
 ---
 
 Reduced order quasi-geostrophic ocean-atmosphere coupled models provide a platform that preserve key atmosphere behaviours, while still being simple enough to allow for analysis of the system dynamics. These models produce typical atmospheric dynamical features like atmospheric blocking and other low-frequency variability, while having a low number of degrees of freedom. For this reason, these models are well suited to investigating tipping points or bifurcations in the Earth's climate due to their simplified but insightful dynamics.

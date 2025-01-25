@@ -1,9 +1,10 @@
 ---
 title: "Cycle Touring"
 subtitle: "Cycling touring"
-excerpt: "<img src='../images/personal_projects/cycling/header.jpeg' width='800' height='600'>"
+excerpt: I like to cycle my bike and tour countries. Here are some maps of routes that I have done.
 permalink: /personal_projects/cycling
 collection: personal_projects
+image: "<img src='../images/personal_projects/cycling/header.jpeg' width='800' height='600'>"
 header: false
 date: 2022-07-12
 include: true

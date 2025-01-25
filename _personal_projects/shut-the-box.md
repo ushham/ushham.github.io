@@ -1,10 +1,11 @@
 ---
 title: "Shut the box"
 subtitle: "Shut the box - winning strategies"
-excerpt: "<img src='../images/personal_projects/stb/stb_profile.jpeg' width='800' height='600'>"
+image: "<img src='../images/personal_projects/stb/stb_profile.jpeg' width='800' height='600'>"
 permalink: /_personal_projects/stb
 collection: personal_projects
 header: false
+excerpt: The best stategy to win the game shut the box.
 date: 2021-05-13
 include: true
 ---
