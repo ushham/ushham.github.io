@@ -6,7 +6,7 @@ excerpt: Multistabilities were found in a reduced-order ocean–atmosphere coupl
 date: 2023-08-30
 venue: 'Quarterly Journal of the Royal Meteorological Society'
 paperurl: https://doi.org/10.1002/qj.4564
-citation: 'Hamilton, O., Demaeyer, J., Vannitsem, S. & Crucifix, M.(2023) Multistability in a coupled ocean–atmosphere reduced-order model: Nonlinear temperature equations. <i>Quarterly Journal of the Royal Meteorological Society</i>, 1–17.'
+citation: '<b>Hamilton, O.</b>, Demaeyer, J., Vannitsem, S. & Crucifix, M.(2023) Multistability in a coupled ocean–atmosphere reduced-order model: Nonlinear temperature equations. <i>Quarterly Journal of the Royal Meteorological Society</i>, 1–17.'
 header: true
 ---
 

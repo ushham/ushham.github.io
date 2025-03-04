@@ -18,9 +18,15 @@ Download [C.V.](../files/Hamilton_Oisin_2025.pdf)
 
 Education
 ======
-* Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - Ongoing
+* Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - 2025 (planned)
 * M.Sc. in Mathematical Modelling, *University College London*, 2020
 * B.A. Mathematics & Philosophy, *Trinity College Dublin*, 2017
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Research Work
 ======
@@ -79,12 +85,6 @@ I was the team leader of up to eleven instructors during summer sailing courses.
 
 As well as leading sailing instructors I taught sailing for five years, during which time I taught all age groups and sailing abilities.
   
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Outreach
 ======
