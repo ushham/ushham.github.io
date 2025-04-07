@@ -12,7 +12,7 @@ header: false
 
 <!-- {% include base_path %} -->
 
-Download: [Academic C.V.](../files/Hamilton_Oisin_2025.pdf)       [Professional C.V.](../files/Hamilton_Oisin.pdf)
+Download: [Academic C.V.](../files/Hamilton_Oisin_2025.pdf) &ensp; &ensp; &ensp;  [Professional C.V.](../files/Hamilton_Oisin.pdf)
 
 ---
 
