@@ -8,8 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Tipping points in the climate system are thresholds where a tiny change could push the climate and weather into a completely new state. They are of particular interest in reference to the climate crisis.
+I am moving to Christchurch, New Zealand in September 2025 and I am looking for work in academia or industry where I can apply my strong mathematical modelling and climate science background.
 
-The EU Horizon 2020 project Multiscales and Critical Transitions in the Earth System ‘CriticalEarth’ project will train 15 early-stage researchers (ESR) on new methods for assessing the mechanisms and associated risks of critical transitions in the climate. The focus will be on investigating how complex mathematics can be used to predict and avoid irreversible climate change. The network will offer researchers an excellent background for working with cross-disciplinary teams in academia, industry, and governmental and non-governmental institutions.
 
-See more at [https://www.criticalearth.eu](https://www.criticalearth.eu)
+I studied my PhD on the topic of reduced order climate models, with a focus on abrupt changes or tipping points in the climate, and heat and cold waves in the mid-latitudes.
+
+Some of my other achievements and background include:
+
+- MSc in Mathematical Modelling from University Collage London
+- Bachelors in Mathematics and Philosophy at Trinity College Dublin
+- Four years' experience working in economics and transport planning 
+- Australian Citizen
+
+
+My full CV can be found [here](https://oisinhamilton.com/cv).
+
