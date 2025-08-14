@@ -1,7 +1,7 @@
 ---
 title: "Multistability in a coupled ocean–atmosphere reduced-order model: Nonlinear temperature equations"
 collection: publications
-permalink: /_publications/2023-08-30 Multistability in a coupled model
+permalink: /_publications/2023-08-30_Multistability_in_a_coupled_model
 excerpt: Multistabilities were found in a reduced-order ocean–atmosphere coupled model, by solving the nonlinear temperature equations numerically.
 date: 2023-08-30
 venue: 'Quarterly Journal of the Royal Meteorological Society'

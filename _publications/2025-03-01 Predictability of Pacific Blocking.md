@@ -1,7 +1,7 @@
 ---
 title: "Predictability of North Pacific Blocking Events : Analogue Based Analysis of Historical MIROC6 Simulations"
 collection: publications
-permalink: /_publications/2025-03-01 Pacific Blocking
+permalink: /_publications/2025-03-01_Pacific_Blocking
 excerpt: This study provides a comparative assessment of the predictability of Western and Eastern North Pacific blocking events, leveraging analogue-based diagnostics applied to CMIP6 MIROC6 simulations.
 date: 2025-03-01
 venue: 'Arxiv'
