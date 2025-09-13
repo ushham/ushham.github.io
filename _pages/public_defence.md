@@ -13,7 +13,7 @@ header: false
 Hi there, here is some information about the public defence, and how to find the rooms.
 
 ## Travel Information
-From Brussels, take the train for Louvain-la-Neuve. **Attention 'Louvain-la-Neuve' and 'Louvain/Leuven' are not the same place!**. Check the [SNCB](https://www.belgiantrain.be/en) for the best route. The journey takes about 40 minutes from Brussels-Luxembourg station, and sometimes requires a transfer in Ottignes. A return journey from Brussels is €13.
+From Brussels, take the train for Louvain-la-Neuve. **Attention 'Louvain-la-Neuve' and 'Louvain/Leuven' are not the same place!** Check the [SNCB](https://www.belgiantrain.be/en) for the best route. The journey takes about 40 minutes from Brussels-Luxembourg station, and sometimes requires a transfer in Ottignes. A return journey from Brussels is €13.
 
 
 ## Defence
@@ -22,7 +22,7 @@ The defence itself will take place in the lecture hall CYCL01, in the Cyclotron 
 
 <img src="../images/outreach/Defence_location.png" alt="room" width="700"/>
 
-*Text of image:*
+*Text version of image:*
 
 The main entrance is marked as Marc de Hemptinne - Chemin du Cyclotron 2. 
 
