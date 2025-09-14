@@ -23,5 +23,5 @@ Some of my other achievements and background include:
 - Senior sailing instructor leading a team of 10+ instructors, Howth Yacht Club
 
 
-My full CV can be found [here](cv).
+My full CV can be found [here](cv/).
 

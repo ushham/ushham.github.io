@@ -8,7 +8,7 @@ header: false
 ---
 
 # Oisín's Public Defence
-*16:15, Tuesday 16th of September, Louvain-la-Neuve*
+*16:15 Central European Summer Time, Tuesday 16th of September, Louvain-la-Neuve*
 
 Hi there, here is some information about the public defence, and how to find the rooms.
 
