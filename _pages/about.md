@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am moving to Christchurch, New Zealand in September 2025 and I am looking for work in academia or industry where I can apply my strong mathematical modelling and climate science background. I am an Australian citizen and do not require a visa to work in New Zealand.
+I received my PhD in low order climate models in 2025, from the Royal Meteorological Institute of Belgium and UC Louvain. I am currently based in Christchurch, New Zealand.
 
 An example of my recent research can be found in the journal [Chaos](https://pubs.aip.org/aip/cha/article/35/8/083126/3358767/Using-unstable-periodic-orbits-to-understand), and [here](/_publications/2025-08-14_UPOs_and_blocking) is a blog post that I wrote about it.
 
