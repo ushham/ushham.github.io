@@ -25,7 +25,7 @@ We are going to get the boat ready in the coming weeks for winter and will putti
 | **Width** | 2.9m (9.4ft) |
 | **Draft** | 1.2m (4ft) |
 | **Keel** | Twin (Bilge) |
-| **Build Year** | 1982 |
+| **Build Year** | 1984 |
 | **Engine** | Beta Marine 16hp (2017, 270hrs) |
 | **Water** | 50L|
 |**Fuel** | 40L |
