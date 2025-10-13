@@ -17,7 +17,7 @@ Download: [Academic C.V.](../files/Hamilton_Oisin_2025.pdf) &ensp; &ensp; &ensp;
 
 Education
 ======
-* Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - 2025 (planned)
+* Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - 2025
 * M.Sc. in Mathematical Modelling, *University College London*, 2020
 * B.A. Mathematics & Philosophy, *Trinity College Dublin*, 2017
 
