@@ -93,87 +93,111 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
     <div class="slide-wrapper">
         <!-- Full-width images with number text -->
         <div class="mySlides">
-            <div class="numbertext">1 / 21</div>
+            <div class="numbertext">1 / 27</div>
             <img src="/images/boat/IMG_4268.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">2 / 21</div>
+            <div class="numbertext">2 / 27</div>
             <img src="/images/boat/IMG_4263.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">3 / 21</div>
+            <div class="numbertext">3 / 27</div>
             <img src="/images/boat/IMG_4267.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">4 / 21</div>
+            <div class="numbertext">4 / 27</div>
             <img src="/images/boat/IMG_4264.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">5 / 21</div>
+            <div class="numbertext">5 / 27</div>
             <img src="/images/boat/IMG_4271.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">6 / 21</div>
+            <div class="numbertext">6 / 27</div>
             <img src="/images/boat/IMG_4266.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">7 / 21</div>
+            <div class="numbertext">7 / 27</div>
             <img src="/images/boat/IMG_4269.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">8 / 21</div>
+            <div class="numbertext">8 / 27</div>
             <img src="/images/boat/IMG_4270.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">9 / 21</div>
+            <div class="numbertext">9 / 27</div>
             <img src="/images/boat/IMG_4272.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">10 / 21</div>
+            <div class="numbertext">10 / 27</div>
             <img src="/images/boat/IMG_4274.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">11 / 21</div>
+            <div class="numbertext">11 / 27</div>
             <img src="/images/boat/IMG_4275.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">12 / 21</div>
+            <div class="numbertext">12 / 27</div>
             <img src="/images/boat/IMG_4276.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">13 / 21</div>
+            <div class="numbertext">13 / 27</div>
             <img src="/images/boat/IMG_4277.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">14 / 21</div>
+            <div class="numbertext">14 / 27</div>
             <img src="/images/boat/IMG_4280.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">15 / 21</div>
+            <div class="numbertext">15 / 27</div>
             <img src="/images/boat/IMG_4282.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">16 / 21</div>
+            <div class="numbertext">16 / 27</div>
             <img src="/images/boat/IMG_4283.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">17 / 21</div>
+            <div class="numbertext">17 / 27</div>
             <img src="/images/boat/IMG_4285.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">18 / 21</div>
+            <div class="numbertext">18 / 27</div>
             <img src="/images/boat/IMG_4286.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">19 / 21</div>
+            <div class="numbertext">19 / 27</div>
             <img src="/images/boat/IMG_4287.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">20 / 21</div>
+            <div class="numbertext">20 / 27</div>
             <img src="/images/boat/IMG_4288.jpeg" style="width:100%">
         </div>
         <div class="mySlides">
-            <div class="numbertext">21 / 21</div>
+            <div class="numbertext">21 / 27</div>
+            <img src="/images/boat/IMG_0165.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">22 / 27</div>
+            <img src="/images/boat/IMG_0167.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">23 / 27</div>
+            <img src="/images/boat/IMG_0280.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">24 / 27</div>
+            <img src="/images/boat/IMG_0281.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">25 / 27</div>
+            <img src="/images/boat/IMG_0282.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">26 / 27</div>
+            <img src="/images/boat/IMG_0286.jpg" style="width:100%">
+        </div>
+        <div class="mySlides">
+            <div class="numbertext">27 / 27</div>
             <img src="/images/boat/IMG_4187.jpeg" style="width:100%">
         </div>
 
@@ -250,9 +274,26 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
       <img class="demo cursor" src="/images/boat/IMG_4288.jpeg" onclick="currentSlide(20)" alt="Deck view">
     </div>
     <div class="column">
-      <img class="demo cursor" src="/images/boat/IMG_4187.jpeg" onclick="currentSlide(21)" alt="West of Ireland">
+      <img class="demo cursor" src="/images/boat/IMG_0165.jpg" onclick="currentSlide(21)" alt="Top of mast (Jan survey)">
     </div>
-    
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_0167.jpg" onclick="currentSlide(22)" alt="Tricolour (Jan survey)">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_0280.jpg" onclick="currentSlide(23)" alt="STB V1 Mast Fixing (Jan survey)">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_0281.jpg" onclick="currentSlide(24)" alt="Port V1 Mast Fixing (Jan survey)">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_0282.jpg" onclick="currentSlide(25)" alt="Port D1 Mast Fixing (Jan survey)">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_0286.jpg" onclick="currentSlide(26)" alt="STB D1 Mast Fixing (Jan survey)">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="/images/boat/IMG_4187.jpeg" onclick="currentSlide(27)" alt="West of Ireland">
+    </div>
   </div>
 </div>
 
