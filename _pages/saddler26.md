@@ -1,29 +1,91 @@
 ---
 layout: archive
-title: "Saddler 26 - Shela na Gig"
-permalink: /saddler26
+title: "Sadler 26 - Shela na Gig"
+permalink: /sadler26
 author_profile: false
 
 header: false
 ---
 
-# Shela na Gig - €8500 (incl VAT)
+# Sadler 26 - Shela na Gig
 
-<img src="/images/boat/IMG_4289.jpeg" alt="Shela-na-gig" width="70%"/>
+<p style="text-align:center;">
+  <img src="/images/boat/IMG_4289.jpeg" 
+       alt="Shela-na-gig" 
+       style="width:70%; border-radius:8px;">
+</p>
 
-Shela na gig is a . New engine. test 2.
+**Location: Galway City**
+
+**Price: €8,500** **PRICE REDUCED FOR QUICK SALE BEFORE MOVING** 
+
+We are going to get the boat ready in the coming weeks for winter and will putting her on the hard in Galway. We would prefer to see her go to a new owner before the winter but will be keeping her if she doesn't sell for the next season. This price is only for a pre-winter buyer. 
 
 | **Length** | 7.8m (26ft) |
 | **Width** | 2.9m (9.4ft) |
 | **Draft** | 1.2m (4ft) |
 | **Keel** | Twin (Bilge) |
-| **Year** | 1982 |
+| **Build Year** | 1982 |
+| **Engine** | Beta Marine 16hp (2017, 270hrs) |
+| **Water** | 50L|
+|**Fuel** | 40L |
 
-Suvey availible from January 2025 upon request. Please contact me by <a href="mailto:ushand.co@gmail.com?subject=Saddler 26 Enquiry">Email</a> (ushand.co@gmail.com). 
 
-# Equiptment list
+It is bittersweet selling our Sadler 26. She has been very good to us but as we are making an exciting move to New Zealand we have no choice but to leave her behind. 
 
-# Maintanence
+We have been sailing her for the summer from Skibbereen to Galway, living on her full time and enjoying all she has to offer. In our time with her she has proven to be reliable, warm and dry in the ever changing Irish weather thanks to her double skinned hull with built-in foam. She is a masthead sloop with furling foresail and slab reefed main with all lines leading back to the cockpit. Thanks to her bilge keel we have been able to get her into some very shallow harbours and been able to dry out without any hastle. Ideal for the lovely little bays around Ireland and northern Europe. Her 16HP Beta (from 2017) with just 260 hours has never set us wrong and has given us great peace of mind. 
+
+With her small size, twin keels, excellent layout and double skinned hull she has been the ideal Irish cruising boat. We very much want to see her used for years to come. 
+
+[Yachting Monthly Review](https://www.yachtingmonthly.com/reviews/yacht-reviews/sadler-26-the-little-boat-with-big-attitude
+https://www.lucasyachting.co.uk/sadler-and-starlight/sadler-26-yacht/)
+
+Suvey availible from January 2025 upon request. Please contact me by <a href="mailto:ushand.co@gmail.com?subject=Sadler 26 Enquiry">Email</a> (ushand.co@gmail.com). 
+
+# Equipment list
+### Hardware
+- Betamarine 16HP (2017) with 270 hrs
+- Two blade feathering propeller and shaft (2017)
+- Electric windlass (not connected)
+- 2x Harken No 32 twin speed self-tailing winches
+- 2x Barlow No 16 for halyards
+- 10kg Bruce anchor (2025)
+- Anchor chain 15m + 40m warp (2025)
+- Stern anchor 7kg CQR
+- Stern anchor chain + warp
+
+### Sails + Rigging
+- Plastimo 609 headsail furling
+- Foresail – good condition
+- Main Sail – used condition
+- Spinnaker – good condition
+- Spinnaker pole
+
+### Navigation
+- Garmin Chartplotter Echomap UHD 65cv (2020)
+- MTECH SX 35 DSC VHF – wired to chartplotter (2024)
+- Raymarine Tillerpilot ST1000
+- Plastimo Compass (2025)
+
+
+# Maintanance
+- Rewired using tinned copper (2021)
+- 35W Solar Panel and controller (2021)
+- Spray hood (2021)
+- Gas stove (2021)
+- Throttle controls (2021)
+- Engine battery (2021)
+- New Lights: tricolor, anchor, steaming and deck (2021)
+- Standing Rigging 2016
+- Soda blasted and copper coated bottom 2016
+- Bilge Pump Manifold replaced (2025)
+- Lazy Bag and jacks (2021)
+- Fire blanket and extinguisher (2025)
+- Assorted fenders and warps (2025)
+- New battery switch (2022)
+- New 50litre Water bladder (2023)
+- New hoses for toilet (2024)
+- New radio (2024)
 
 # Photos
 <!-- Container for the image gallery -->
@@ -211,10 +273,10 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
     /* Hide the images by default */
     .mySlides img {
     width: 100%;
-    max-height: 70vh;       /* or use a pixel value, e.g. 600px */
-    object-fit: contain;    /* ensures full image fits without cropping */
-    background-color: #000; /* optional: adds black bars behind portrait images */
-    border-radius: 8px;     /* matches your rounded corners */
+    max-height: 70vh;   
+    object-fit: contain;  
+    background-color: #000; 
+    border-radius: 8px 8px 0px 0px;     
     }
 
     /* Add a pointer when hovering over the thumbnail images */
@@ -274,7 +336,7 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
     background-color: #222;
     padding: 2px 16px;
     color: white;
-    border-radius: 8px;
+    border-radius: 0px 0px 8px 8px;
     }
 
    /* === GRID LAYOUT FOR THUMBNAILS === */
