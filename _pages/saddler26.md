@@ -11,7 +11,7 @@ header: false
 
 <img src="/images/boat/IMG_4289.jpeg" alt="Shela-na-gig" width="70%"/>
 
-Shela na gig is a . New engine.
+Shela na gig is a . New engine. test 2.
 
 | **Length** | 7.8m (26ft) |
 | **Width** | 2.9m (9.4ft) |
@@ -204,6 +204,10 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
     position: relative;
     }
 
+    .mySlides { 
+    display: none; 
+    }
+
     /* Hide the images by default */
     .mySlides img {
     width: 100%;
@@ -303,7 +307,7 @@ Suvey availible from January 2025 upon request. Please contact me by <a href="ma
 
 </style>
 
-<script>
+<script type="text/javascript">
     let slideIndex = 1;
     showSlides(slideIndex);
 
