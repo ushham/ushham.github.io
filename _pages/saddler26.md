@@ -11,7 +11,7 @@ header: false
 
 <img src="/images/boat/IMG_4289.jpeg" alt="Shela-na-gig" width="70%"/>
 
-Shela na gig is a 
+Shela na gig is a . New engine.
 
 | **Length** | 7.8m (26ft) |
 | **Width** | 2.9m (9.4ft) |
