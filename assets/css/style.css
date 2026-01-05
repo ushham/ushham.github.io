@@ -1,0 +1,8 @@
+
+/*
+Formatting for CV headers - bold row with tab
+*/
+.bold-row {
+  display: flex;
+  justify-content: space-between;
+}

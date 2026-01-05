@@ -10,6 +10,8 @@ redirect_from:
 
 I received my PhD in low order climate models in 2025, from the Royal Meteorological Institute of Belgium and UC Louvain. I am currently based in Christchurch, New Zealand.
 
+I am currently working for Stats NZ, working on the cencus transformation project. I use machine learning and statistical methods to 
+
 An example of my recent research can be found in the journal [Chaos](https://pubs.aip.org/aip/cha/article/35/8/083126/3358767/Using-unstable-periodic-orbits-to-understand), and [here](/_publications/2025-08-14_UPOs_and_blocking) is a blog post that I wrote about it.
 
 

@@ -17,15 +17,44 @@ Download: [Academic C.V.](../files/Hamilton_Oisin_2025.pdf) &ensp; &ensp; &ensp;
 
 Education
 ======
-* Ph.D in climate modelling with a focus on climate tipping points, *Université Catholique de Louvain*, 2021 - 2025
-* M.Sc. in Mathematical Modelling, *University College London*, 2020
-* B.A. Mathematics & Philosophy, *Trinity College Dublin*, 2017
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>PhD in Climate Modelling</span>
+  <span>2025</span>
+</div>
+<div style="display:flex; justify-content:space-between; margin-bottom:24px;">
+  <span><em>UC Louvain</em></span>
+  <span></span>
+</div>
+
+
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>M.Sc. Mathematical Modelling</span>
+  <span>2020</span>
+</div>
+<div style="display:flex; justify-content:space-between; margin-bottom:24px;">
+  <span><em>University College London</em></span>
+  <span>Distinction</span>
+</div>
+
+
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>B.A. Mathematics & Philosophy</span>
+  <span>2017</span>
+</div>
+<div style="display:flex; justify-content:space-between; margin-bottom:24px;">
+  <span><em>Trinity College Dublin</em></span>
+  <span>1st Class Hon.</span>
+</div>
+
+---
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
 
 Research Work
 ======
@@ -42,7 +71,6 @@ how climate change will aﬀect the low-frequency variability present in the atm
 - This investigation will be performed in a hierarchy of climate models of increasing complexity and
 using tools of nonlinear sciences
 
-
 **Forest Fire Modelling (MSc Dissertation)**
 - Forest fire behaviour was modelled by deriving an equation to simulate fire spread incorporating wind, topography, and fuel type.
 - The equation was simulated using a variety of finite difference methods, which I programmed.
@@ -57,18 +85,32 @@ spreading elements such as firebreaks and floating embers.
 similarity between bus lines.
 - The project produced an accurate bus and rail map for the Dublin network, given network data.
 
+---
 
 Work Experience
 ======
 
-**Climate Researcher, Royal Meteorological Institute, Brussels Oct 2021 -**
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>Research and Design Analyst, Stats NZ, Christchurch</span>
+  <span>Oct 2025 -      </span>
+</div>
 
+Researcher for the as part of the census transformation program, which aims to develop an alternative method for producing demographic, social, and economic statistics.
+
+I use machine learning methods as well as statistical methods to derive information about members of the public, from administrative data.
+
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>Climate Researcher, Royal Meteorological Institute, Brussels</span>
+  <span>Oct 2021 - Sep 2024</span>
+</div>
 Researcher of climate dynamics as part of my PhD studies.
 My main tasks include analysing climate models, modifying climate models in python, and implementing
 new diagnostic tools to analyse results.
 
-**Transport Planner and Economist, WSP, London Oct 2017 - Apr 2021**
-
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>Transport Planner and Economist, WSP, London</span>
+  <span>Oct 2017 - Apr 2021</span>
+</div>
 Analyst and model builder for forecasting and analysing a wide range of transport systems. Responsibilities involve model building and auditing, data analysis, and project management.
 
 *Key Projects:*
@@ -77,13 +119,17 @@ Analyst and model builder for forecasting and analysing a wide range of transpor
 - **Journeys per Ticket (2019):** Research project for the Department of Transport, calculating the number of journeys taken on season tickets. I created a program to search over 200 million ticket entries to identify trip rates. I also created a process to find and edit missing entries in the ticket data. Results from this project are included in the government transport guidance.
 - **Carbon Emission Modelling (2018):** I built a model to forecast the emissions of rail services as part of the West Coast franchise. This involved incorporating timetable information, rolling stock types, and researching the forecast carbon emissions of the UK power grid.
 
-**Senior Sailing Instructor, Howth Yacht Club May 2015 - Apr 2017**
+<div style="display:flex; justify-content:space-between; font-weight:bold;">
+  <span>Senior Sailing Instructor, Howth Yacht Club</span>
+  <span>May 2015 - Apr 2017</span>
+</div>
 *HYC Instructor of the year 2015*
 
 I was the team leader of up to eleven instructors during summer sailing courses. I was responsible for on the water safety and maintaining the high teaching standards expected at one of Ireland’s most successful sailing clubs. I also had final say on the suitability of weather conditions and forecasts for teaching. I was in charge of handling customer feedback and administration for the courses and over three summers the club enrolled 500 students.
 
 As well as leading sailing instructors I taught sailing for five years, during which time I taught all age groups and sailing abilities.
   
+---
   
 Outreach
 ======
