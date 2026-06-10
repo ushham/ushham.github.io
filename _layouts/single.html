@@ -35,7 +35,7 @@ layout: default
               <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
             {% endif %}
             {% if page.subtitle %}
-              <h1 class="page__title" itemprop="headline">{{ page.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+              <h3 class="page__title" itemprop="headline">{{ page.subtitle | markdownify | remove: "<p>" | remove: "</p>" }}</h3>
             {% endif %}
           {% endif %}
           {% if page.read_time %}

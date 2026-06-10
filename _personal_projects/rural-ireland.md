@@ -1,17 +1,14 @@
 ---
 title: "A Vision for Rural Ireland"
-subtitle: "One-off housing sucks the life out of rural Ireland"
+subtitle: "One-off housing sucks the life out of rural Ireland. Instead of sprawling houses, this is what we should be encouraging."
 excerpt: 
 permalink: /personal_projects/rural_ireland
 collection: personal_projects
 image: "<img src='../images/personal_projects/rural_ireland/rural_ireland_hdr.jpg' width='800' height='600'>"
-header: false
+header: true
 date: 2026-06-07
 include: true
 ---
-
-# A Vision for Rural Ireland
-*One-off housing sucks the life out of rural Ireland. Instead of sprawling houses, this is what we should be encouraging.*
 
 
 Written with [Éabha Jones](https://eabhajones.substack.com/?utm_campaign=profile_chips).
