@@ -35,4 +35,18 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- Prevent flash of wrong theme -->
+<script>
+  (function() {
+    const saved = localStorage.getItem('theme-preference');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.setAttribute(
+      'data-theme',
+      saved || (prefersDark ? 'dark' : 'light')
+    );
+  })();
+</script>
+
+<script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
+
 <!-- end custom head snippets -->
