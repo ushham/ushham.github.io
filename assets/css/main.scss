@@ -165,6 +165,17 @@
 
   // Horizontal rules
   hr { border-color: var(--border-color); }
+
+  // Social icons — black in light mode, white in dark mode
+  .author__urls li i,
+  .author__urls li a i {
+    color: #cdd6f4;
+  }
+
+  [data-theme="dark"] .author__urls li i,
+  [data-theme="dark"] .author__urls li a i {
+    color: #040404 !important;
+  }
 }
 
 // Smooth transition for theme switching

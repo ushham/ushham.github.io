@@ -81,13 +81,13 @@ analytics:
 author:
   name             : "Oisín Hamilton"
   avatar           : "oisin_hamilton.jpg"
-  bio              : "PhD student studying climate science, with a focus on climate tipping points"
-  location         : "RMIB, Brussels, Belgium"
-  employer         : "Université Catholique de Louvain"
+  bio              : "PhD in climate science, with a focus on climate tipping points"
+  location         : "Christchurch, New Zealand"
+  employer         : "Stats NZ"
   github           : "ushham"
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/oisin-hamilton/"
   orcid            : "https://orcid.org/0000-0002-0447-1657"
-  mastodon         : "https://mastodon.green/@ushham"
+  # mastodon         : "https://mastodon.green/@ushham"
 
 # Reading Files
 include:
@@ -159,6 +159,9 @@ collections:
   sub_pages:
     output: true
     permalink: /:collection/:path/
+  top_shpots:
+    output: true
+    permalink: /:collection/:path
 
 
 # Defaults
@@ -202,6 +205,15 @@ defaults:
   - scope:
       path: ""
       type: personal_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _top_shpots
+  - scope:
+      path: ""
+      type: top_shpots
     values:
       layout: single
       author_profile: true
