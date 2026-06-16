@@ -242,6 +242,24 @@
   }
 }
 
+[data-theme="dark"] .author__urls {
+  background: #383838 !important;        // lighter than page bg (#2b2b2b) so it lifts off
+  border-color: #606060 !important;      // brighter border, visible against dark bg
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6) !important;  // stronger but still subtle
+
+  &:after {
+    border-color: #383838 transparent !important;
+  }
+
+  &:before {
+    border-color: #606060 transparent !important;
+  }
+
+  a { color: #e8e3d9 !important; }
+  a:hover { color: #c9a84c !important; }
+}
+
+
 // In dark mode, flip which one is vivid
 [data-theme="dark"] .theme-toggle__icon--sun  { color: #f59e0b; }  // dim warm grey
 [data-theme="dark"] .theme-toggle__icon--moon { color: #e2e8f0; }  // bright white-blue
