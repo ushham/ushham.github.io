@@ -56,7 +56,7 @@
   --muted-text-color:           #9a9489;   // warm grey for subdued labels
 
   // Links — warm amber so they're clearly distinct from body text
-  --link-color:                 #89b4fa;   // golden amber
+  --link-color:                 #9cbff7;   // golden amber
   --link-color-hover:           #7b96f7;   // brighter on hover
 
   // Borders
@@ -106,7 +106,10 @@
   }
 
   // Post/archive titles
-  .archive__item-title a { color: #89b4fa !important; }
+  .archive__item-title {
+    a { color: #9cbff7 !important; }
+    a:hover { color: #7b96f7 !important; }
+  }
 }
 
 // Map CSS variables onto Minimal Mistakes elements in dark mode
