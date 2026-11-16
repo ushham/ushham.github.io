@@ -6,7 +6,7 @@ excerpt: A computational nonlinear dynamics worflow is presented to identify pot
 date: 2026-03-30
 venue: 'Arxiv'
 paperurl: https://doi.org/10.48550/arXiv.2604.09661
-citation: Datseris, G., Lohmann, J., <b>Hamilton, O.</b>, Haqq-Misra, J. Multistability and intermingledness in complex high-dimensional data. <i>Under Review</i>.
+citation: Datseris, G., Lohmann, J., <b>Hamilton, O.</b>, Haqq-Misra, J. Multistability and intermingledness in complex high-dimensional data. <i>(Accepted in PLOS)</i>.
 header: true
 ---
 
