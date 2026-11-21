@@ -6,7 +6,7 @@ excerpt: PhD Thesis
 date: 2025-09-20
 venue: 'UCLouvain'
 paperurl: https://hdl.handle.net/2078.5/260959
-citation: "Oisín Hamilton. <i>Dynamics of Atmospheric Multi-Scale Systems: A Low-Order Model Perspective</i>. PhD thesis. UCLouvain, 2025."
+citation: "<b>Hamilton, Oisín</b> (2025). <i>Dynamics of Atmospheric Multi-Scale Systems: A Low-Order Model Perspective</i>. UCLouvain."
 header: true
 ---
 
