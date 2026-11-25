@@ -4,9 +4,9 @@ collection: publications
 permalink: /_publications/2026_04_28_multistability_and_intermingledness
 excerpt: A computational nonlinear dynamics worflow is presented to identify potentially multistable simulation data.
 date: 2026-03-30
-venue: 'Arxiv'
-paperurl: https://doi.org/10.48550/arXiv.2604.09661
-citation: Datseris, G., Lohmann, J., <b>Hamilton, O.</b>, Haqq-Misra, J. Multistability and intermingledness in complex high-dimensional data. <i>(Accepted in PLOS)</i>.
+venue: 'PLOS Climate'
+paperurl: https://doi.org/10.1371/journal.pclm.0001081
+citation: "Datseris, G., Lohmann, J., <b>Hamilton, O.</b>, Haqq-Misra, J. Multistability and intermingledness in complex high-dimensional data. PLOS Clim 5(11): e0001081."
 header: true
 ---
 
