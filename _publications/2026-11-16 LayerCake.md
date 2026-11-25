@@ -5,7 +5,7 @@ permalink: /_publications/2026_11_16_LayerCake
 excerpt: A Python package to automatically project model equations on basis modes.
 date: 2026-11-14
 venue: 'Zonodo'
-paperurl: https://zenodo.org/records/19789923
+paperurl: https://doi.org/10.48550/arXiv.2611.28647
 citation: "Demaeyer, J., <b>Hamilton, O.</b>, Vannitsem, S. LayerCake v1.0: a framework for low- to intermediate-order automated models development. <i>(Under Review in Geoscientific Model Development)</i>."
 header: true
 ---
